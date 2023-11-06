@@ -1,0 +1,23 @@
+git command 
+
+pwd --- to see the current dictory
+cd --- go inside the file or dic
+mkdir --- to create new file in the git
+
+
+git init --- to initialize the git in the mechan
+
+git config --global user.name "sainandan'
+git config --global user.email "sainandan888@gmail.com"
+
+
+for creating newfile
+touch file1.txt
+
+opening file in 
+notepad file.txt
+
+
+git ls-files all the file name
+
+git log ---- history all the recoeds will there
